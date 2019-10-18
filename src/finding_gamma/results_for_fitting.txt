@@ -1,0 +1,440 @@
+Facebook
+	no data for the 3 graphs
+
+other_social_networks
+	text file: Epinions (1) [exact match]
+	# of nodes: 75879
+	# of edges: 405740
+	max degree: 3044
+	average degree: 10.6943950237
+	# of unique degree vertices: 491
+	p-value = 0.996900309969 (good fit)
+	gamma = 1.68000316438
+	x-min = 0.000461260691364
+
+	text file: Slashdot 08/11 [exact match]
+	# of nodes: 77360
+	# of edges: 507833
+	max degree: 2540
+	average degree: 13.1290977249
+	# of unique degree vertices: 450
+	p-value = 0.668533146685 (good fit)
+	gamma = 1.59309041592
+	x-min = 0.000155118924509
+
+	text file: Twitter [exact match]
+	# of nodes: 81306
+	# of edges: 1342303
+	max degree: 3383
+	average degree: 33.0185472167
+	# of unique degree vertices: 634
+	p-value = 0.0 (not a good fit)
+	gamma = 1.48250497127
+	x-min = 0.000110692937791
+
+	no data for Slashdot 09/02/16
+
+	no data for Slashdot 09/02/21
+
+	text file: Slashdot 09/02/22 [exact match]
+	# of nodes: 82168
+	# of edges: 543381
+	max degree: 2553
+	average degree: 13.2261099211
+	# of unique degree vertices: 457
+	p-value = 0.326867313269 (good fit)
+	gamma = 1.58751763743
+	x-min = 0.000146042254892
+
+	text file: GPlus [exact match]
+	# of nodes: 107614
+	# of edges: 12238285
+	max degree: 20127
+	average degree: 227.447822774
+	# of unique degree vertices: 3424
+	p-value = 0.00959904009599 (not a good fit)
+	gamma = 1.81115893644
+	x-min = 0.000232311780995
+
+	no data for Epinions (2)
+
+	text file: Youtube [exact match]
+	# of nodes: 1134890
+	# of edges: 2987624
+	max degree: 28754
+	average degree: 5.26504595159
+	# of unique degree vertices: 978
+	p-value = 0.853114688531 (good fit)
+	gamma = 1.48148459846
+	x-min = 1.32171399871e-05
+
+	text file: Pokec [exact match]
+	# of nodes: 1632803
+	# of edges: 22301964
+	max degree: 14854
+	average degree: 27.3173971385
+	# of unique degree vertices: 803
+	p-value = 0.842315768423 (good fit)
+	gamma = 2.35287602099
+	x-min = 0.011312448593
+
+	text file: Flickr [exact match]
+	# of nodes: 1715255
+	# of edges: 15555041
+	max degree: 27236
+	average degree: 18.1372932888
+	# of unique degree vertices: 2867
+	p-value = 0.999800019998 (good fit)
+	gamma = 1.62162354707
+	x-min = 0.000134090849466
+
+	text file: Livejournal [exact match]
+	# of nodes: 5204176
+	# of edges: 48942196
+	max degree: 15017
+	average degree: 18.808816804
+	# of unique degree vertices: 1632
+	p-value = 0.00889911008899 (not a good fit)
+	gamma = 1.39258740816
+	x-min = 2.30584054037e-06
+
+citation_networks
+	text file: Patents [neither match]
+	# of nodes: 3774768
+	# of edges: 16518947
+	max degree: 793
+	average degree: 8.75229815448
+	# of unique degree vertices: 370
+	p-value = 0.217478252175 (good fit)
+	gamma = 1.27637883413
+	x-min = 1.05966777296e-06
+
+	text file: ArXiv (Theo. Cit.) [exact match]
+	# of nodes: 27770
+	# of edges: 352304
+	max degree: 2468
+	average degree: 25.373028448
+	# of unique degree vertices: 324
+	p-value = 0.0 (not a good fit)
+	gamma = 1.42598040127
+	x-min = 0.00010803024847
+
+	text file: ArXiv (Phy. Cit.) [exact match]
+	# of nodes: 34546
+	# of edges: 420899
+	max degree: 846
+	average degree: 24.3674520929
+	# of unique degree vertices: 301
+	p-value = 0.0 (not a good fit)
+	gamma = 1.39072067815
+	x-min = 8.68407340937e-05
+
+collaboration_networks
+	text file: ArXiv (Phy.) [exact match] 		(not correct paper)
+	# of nodes: 12008
+	# of edges: 118505
+	max degree: 491
+	average degree: 19.7376748834
+	# of unique degree vertices: 288
+	p-value = 0.540745925407 (good fit)
+	gamma = 1.87792482011
+	x-min = 0.00541305796136
+
+	text file: ArXiv (Astro) [exact match] 		(not correct paper)
+	# of nodes: 18772
+	# of edges: 198080
+	max degree: 504
+	average degree: 21.1037715747
+	# of unique degree vertices: 234
+	p-value = 0.363663633637 (good fit)
+	gamma = 1.99849178556
+	x-min = 0.00436820796932
+
+	text file: DBLP [exact match]
+	# of nodes: 317080
+	# of edges: 1049866
+	max degree: 343
+	average degree: 6.6220890627
+	# of unique degree vertices: 199
+	p-value = 0.0530946905309 (not a good fit)
+	gamma = 1.33819803218
+	x-min = 1.26151129053e-05
+
+	text file: ArXiv (Condense) [neither match] 		(not correct paper)
+	# of nodes: 23133
+	# of edges: 93468
+	max degree: 280
+	average degree: 8.08092335624
+	# of unique degree vertices: 123
+	p-value = 0.033596640336 (not a good fit)
+	gamma = 1.38074026315
+	x-min = 0.000129684865776
+
+communication_networks
+	text file: Email (Enron) [exact match]
+	# of nodes: 36692
+	# of edges: 183831
+	max degree: 1383
+	average degree: 10.0202223918
+	# of unique degree vertices: 334
+	p-value = 0.987501249875 (good fit)
+	gamma = 1.6060202752
+	x-min = 0.000436062356917
+
+	text file: Email (Europe) [exact match]
+	# of nodes: 265214
+	# of edges: 365025
+	max degree: 7636
+	average degree: 2.75268650976
+	# of unique degree vertices: 545
+	p-value = 0.992600739926 (good fit)
+	gamma = 1.44647886197
+	x-min = 0.000309184281373
+
+	text file: Wiki [exact match]
+	# of nodes: 2394385
+	# of edges: 4659565
+	max degree: 100029
+	average degree: 3.89207667104
+	# of unique degree vertices: 1855
+	p-value = 0.995100489951 (good fit)
+	gamma = 1.50784918667
+	x-min = 0.000189192631928
+
+web_graphs
+	text file: Stanford [exact match] 			(not correct paper)
+	# of nodes: 281903
+	# of edges: 1992636
+	max degree: 38625
+	average degree: 14.1370329511
+	# of unique degree vertices: 676
+	p-value = 0.004699530047 (not a good fit)
+	gamma = 1.40307383632
+	x-min = 2.12839168083e-05
+
+	text file: NotreDame [exact match]
+	# of nodes: 325729
+	# of edges: 1103835
+	max degree: 10721
+	average degree: 6.77763109824
+	# of unique degree vertices: 438
+	p-value = 0.662533746625 (good fit)
+	gamma = 1.65904104529
+	x-min = 0.00140914686749
+
+	text file: BerkStan [exact match] 			(not correct paper)
+	# of nodes: 685230
+	# of edges: 6649470
+	max degree: 84230
+	average degree: 19.407994396
+	# of unique degree vertices: 980
+	p-value = 0.00659934006599 (not a good fit)
+	gamma = 1.45539846808
+	x-min = 0.000169286225063
+
+	text file: Google [exact match] 			(not correct paper)
+	# of nodes: 875713
+	# of edges: 4322051
+	max degree: 6332
+	average degree: 9.87093031621
+	# of unique degree vertices: 735
+	p-value = 0.378462153785 (good fit)
+	gamma = 1.38632416712
+	x-min = 3.19739458019e-05
+
+location_based_osns
+	text file: Brightkite [exact match]
+	# of nodes: 58228
+	# of edges: 214078
+	max degree: 1134
+	average degree: 7.35309473106
+	# of unique degree vertices: 261
+	p-value = 0.417158284172 (good fit)
+	gamma = 1.53182016918
+	x-min = 0.00041217283781
+
+	text file: Gowalla [exact match]
+	# of nodes: 196591
+	# of edges: 950327
+	max degree: 14730
+	average degree: 9.66806211882
+	# of unique degree vertices: 475
+	p-value = 0.307369263074 (good fit)
+	gamma = 1.45123807262
+	x-min = 5.59537313509e-05
+
+as_graphs
+	text file: Oregon (1) [exact match]
+	# of nodes: 11174
+	# of edges: 23409
+	max degree: 2389
+	average degree: 4.18990513693
+	# of unique degree vertices: 113
+	p-value = 0.914708529147 (good fit)
+	gamma = 1.52164617222
+	x-min = 0.00152138893861
+
+	text file: Oregon (2) [exact match]
+	# of nodes: 11461
+	# of edges: 32730
+	max degree: 2432
+	average degree: 5.71154349533
+	# of unique degree vertices: 147
+	p-value = 0.839516048395 (good fit)
+	gamma = 1.58735933134
+	x-min = 0.000610766948783
+
+	text file: CAIDA [exact match]
+	# of nodes: 26475
+	# of edges: 53381
+	max degree: 2628
+	average degree: 4.03255901794
+	# of unique degree vertices: 158
+	p-value = 0.90900909909 (good fit)
+	gamma = 1.51438319187
+	x-min = 0.0013597733711
+
+	text file: Skitter [exact match]
+	# of nodes: 1696415
+	# of edges: 11095298
+	max degree: 35455
+	average degree: 13.080877026
+	# of unique degree vertices: 1739
+	p-value = 0.739726027397 (good fit)
+	gamma = 1.44729434456
+	x-min = 6.48426240041e-06
+
+p2p_networks
+	text file: Gnutella 02/08/04 [exact match]
+	# of nodes: 10876
+	# of edges: 39994
+	max degree: 103
+	average degree: 7.35454211107
+	# of unique degree vertices: 65
+	p-value = 0.632236776322 (good fit)
+	gamma = 2.42178143448
+	x-min = 0.0379735196764
+
+	text file: Gnutella 02/08/25 [exact match]
+	# of nodes: 22687
+	# of edges: 54705
+	max degree: 66
+	average degree: 4.82258562172
+	# of unique degree vertices: 46
+	p-value = 0.659834016598 (good fit)
+	gamma = 1.96206491747
+	x-min = 0.0176753206682
+
+	text file: Gnutella 02/08/24 [exact match]
+	# of nodes: 26518
+	# of edges: 65369
+	max degree: 355
+	average degree: 4.9301606456
+	# of unique degree vertices: 52
+	p-value = 0.755424457554 (good fit)
+	gamma = 1.92668129384
+	x-min = 0.0168941850818
+
+	text file: Gnutella 02/08/30 [exact match]
+	# of nodes: 36682
+	# of edges: 88328
+	max degree: 55
+	average degree: 4.81587699689
+	# of unique degree vertices: 50
+	p-value = 0.843515648435 (good fit)
+	gamma = 1.80959531306
+	x-min = 0.0134398342511
+
+	text file: Gnutella 02/08/31 [exact match]
+	# of nodes: 62586
+	# of edges: 147892
+	max degree: 95
+	average degree: 4.72604096763
+	# of unique degree vertices: 56
+	p-value = 0.910308969103 (good fit)
+	gamma = 1.83704678758
+	x-min = 0.0134055539578
+
+amazon_copurchasing
+	text file: Amazon 03/03/02 [exact match]
+	# of nodes: 262111
+	# of edges: 899792
+	max degree: 420
+	average degree: 6.86573245686
+	# of unique degree vertices: 153
+	p-value = 0.632136786321 (good fit)
+	gamma = 1.32689509077
+	x-min = 1.90758876964e-05
+
+	text file: Amazon (2012)
+	# of nodes: 334863
+	# of edges: 925872
+	max degree: 549
+	average degree: 5.52985549314
+	# of unique degree vertices: 153
+	p-value = 0.582641735826 (good fit)
+	gamma = 1.33270240261
+	x-min = 5.67396218752e-05
+
+	text file: Amazon 03/03/12 [exact match]
+	# of nodes: 400727
+	# of edges: 2349869
+	max degree: 2747
+	average degree: 11.7280293067
+	# of unique degree vertices: 346
+	p-value = 0.499050094991 (good fit)
+	gamma = 1.36537581768
+	x-min = 2.24591804396e-05
+
+	text file: Amazon 03/06/01 [exact match]
+	# of nodes: 403394
+	# of edges: 2443408
+	max degree: 2752
+	average degree: 12.1142505838
+	# of unique degree vertices: 346
+	p-value = 0.598440155984 (good fit)
+	gamma = 1.36617963059
+	x-min = 1.48737958423e-05
+
+	text file: Amazon 03/05/05 [exact match]
+	# of nodes: 410236
+	# of edges: 2439437
+	max degree: 2760
+	average degree: 11.8928470441
+	# of unique degree vertices: 344
+	p-value = 0.511148885111 (good fit)
+	gamma = 1.35589287787
+	x-min = 1.21881063583e-05
+
+road_networks
+	text file: Pennsylvania [exact match] 		(not correct paper)
+	# of nodes: 1088092
+	# of edges: 1541898
+	max degree: 9
+	average degree: 2.83413167269
+	# of unique degree vertices: 9
+	p-value = 0.642135786421 (good fit)
+	gamma = 2.4389672404
+	x-min = 0.173070843274
+
+	text file: Texas [exact match] 			(not correct paper)
+	# of nodes: 1379917
+	# of edges: 1921660
+	max degree: 12
+	average degree: 2.78518200732
+	# of unique degree vertices: 9
+	p-value = 0.0630936906309 (not a good fit)
+	gamma = 1.13524003182
+	x-min = 3.62340633531e-06
+
+	text file: California [exact match] 			(not correct paper)
+	# of nodes: 1965206
+	# of edges: 2766607
+	max degree: 12
+	average degree: 2.81558981603
+	# of unique degree vertices: 11
+	p-value = 0.0808919108089 (not a good fit)
+	gamma = 1.12867188149
+	x-min = 5.08852507065e-07
+
+

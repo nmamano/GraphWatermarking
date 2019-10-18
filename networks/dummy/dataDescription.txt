@@ -1,0 +1,15 @@
+Source:
+None
+
+Properties:
+Undirected
+Nodes	10
+Edges	18
+Connected
+
+Semantics:
+None
+
+Methodology:
+Node 0 is connected to everyone
+Nodes 1,...,9 form a cycle

@@ -1,0 +1,22 @@
+Source:
+https://snap.stanford.edu/data/egonets-Facebook.html
+Original file name: facebook_combined.txt
+
+File properties:
+No header
+Edge list format
+0-indexed indices without gaps
+
+Graph properties:
+Undirected
+Nodes	4039
+Edges	88234
+Connected
+
+Semantics:
+Nodes represent users
+Edges represent friendship
+
+Methodology:
+The network was created by joining the ego-networks of 10 users that participated in a survey.
+Ego-network of a user: the network of friendships between his friends.
